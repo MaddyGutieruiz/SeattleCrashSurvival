@@ -1,6 +1,5 @@
-# SeattleCrashSurvival
-
 # Project 4 Proposal - Crash Survival Prediction
+## University of California, Davis - Data Analyst Bootcamp
 ## Group members: Justin Dean, Madeline Gutieuriz, Belay Kondidie, and Riley Unverferth   
 
 # Background 
@@ -10,3 +9,6 @@ By leveraging advancements in data analytics and machine learning we are strivin
 
 # Proposed App
 Our group will be developing an app that will predict the degree of injury based on the conditions of crashes in Seattle, Washington. This app will ask users a series of questions that will lead the app to a conclusion of the most likely outcome of injury severity. By gathering essential information such as the type of collision, vehicle speed, and location, our app will allow users to gain insights on potential injury risks. Our project aims to bridge the gap between transportation safety, user-friendly application, and promoting safer experiences on the road.  
+
+# Data
+
