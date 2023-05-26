@@ -7,8 +7,10 @@ When considering  transportation safety, predicting the likelihood of survival f
 
 By leveraging advancements in data analytics and machine learning we are striving to develop predictive models capable of accurately estimating the probability of survival in various crash scenarios. This promising field not only holds immense potential for improving vehicle safety standards but also offers valuable insights to inform policy decisions, enhance emergency response protocols, and ultimately save countless lives. 
 
-# Proposed App
-Our group will be developing an app that will predict the degree of injury based on the conditions of crashes in Seattle, Washington. This app will ask users a series of questions that will lead the app to a conclusion of the most likely outcome of injury severity. By gathering essential information such as the type of collision, vehicle speed, and location, our app will allow users to gain insights on potential injury risks. Our project aims to bridge the gap between transportation safety, user-friendly application, and promoting safer experiences on the road.  
+# App
+This app was developed to predict the degree of injury based on the conditions of crashes in Seattle, Washington. Users will be asked a series of questions that will lead the app to a conclusion of the most likely outcome of injury severity. By gathering essential information such as the type of collision, vehicle speed, and location, our app will allow users to gain insights on potential injury risks. Our project aims to bridge the gap between transportation safety, user-friendly application, and promoting safer experiences on the road.  
+
+To explore the Seattle Crash Survival App here: 
 
 # Data
 
