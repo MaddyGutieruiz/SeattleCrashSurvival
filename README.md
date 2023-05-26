@@ -1,4 +1,4 @@
-# Project 4 Proposal - Crash Survival Prediction
+# Project 4 Proposal - Crash Survival Prediction in Seattle, Washington
 ## University of California, Davis - Data Analyst Bootcamp
 ## Group members: Justin Dean, Madeline Gutieuriz, Belay Kondidie, and Riley Unverferth   
 
